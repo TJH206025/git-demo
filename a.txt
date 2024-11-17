@@ -5,3 +5,4 @@ hello guigu!
 hello guigu!
 hello guigu!
 include stm32
+include stdio.h by tjh
