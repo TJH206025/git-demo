@@ -4,3 +4,4 @@ hello guigu!
 hello guigu!
 hello guigu!
 hello guigu!
+include stm32
